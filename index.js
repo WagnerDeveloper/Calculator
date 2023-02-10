@@ -18,7 +18,7 @@ function calcular(){
     var resultado = document.getElementById('last-calc').innerHTML;
     if(resultado)
     {
-        document.getElementById('calculo').innerHTML = eval(resultado);
+        document.getElementById('calculo').innerHTML = eval(resultado).toFixed(2);;
     }
     else
     {
