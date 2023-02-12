@@ -14,7 +14,7 @@ Projeto começando com os primeiros passos na programação <br/>
 </p>
 <br>
 <p align="center">
-  <img alt="Projeto Calculator" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Calculator" src=".github/Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
